@@ -70,12 +70,12 @@ The app includes several delightful animations and interactions:
 dependencies:
   flutter:
     sdk: flutter
-  cupertino_icons: ^1.0.2
+  cupertino_icons: ^1.0.8
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
+  flutter_lints: ^5.0.0
 ```
 
 ## 🚀 Getting Started
@@ -89,8 +89,8 @@ dev_dependencies:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/furniture-store-app.git
-   cd furniture-store-app
+   git clone https://github.com/Zeyad-GenAI/Furniture_App.git
+   cd Furniture_App
    ```
 
 2. **Install dependencies**
@@ -178,7 +178,7 @@ We welcome contributions! Here's how you can help:
 
 ## 🐛 Bug Reports & Feature Requests
 
-Found a bug or have a feature idea? Please [open an issue](https://github.com/yourusername/furniture-store-app/issues) with:
+Found a bug or have a feature idea? Please [open an issue](https://github.com/Zeyad-GenAI/Furniture_App/issues) with:
 - Clear description of the issue/feature
 - Steps to reproduce (for bugs)
 - Screenshots if applicable
@@ -203,8 +203,8 @@ Found a bug or have a feature idea? Please [open an issue](https://github.com/yo
 
 ## 👥 Team
 
-- **Developer**: [Your Name](https://github.com/yourusername)
-- **Designer**: [Designer Name](https://github.com/designername)
+- **Developer**: [Zeyad ElFaramawy](https://github.com/Zeyad-GenAI)
+- **Designer**: [Zeyad ElFaramawy](https://github.com/Zeyad-GenAI)
 
 ## 📜 License
 
